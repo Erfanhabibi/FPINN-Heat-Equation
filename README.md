@@ -83,7 +83,7 @@ FPINN-Heat-Equation/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/erfanhabibi/FPINN-Heat-Equation.git
+git clone https://github.com/Erfanhabibi/FPINN-Heat-Equation.git
 cd FPINN-Heat-Equation
 ```
 
@@ -389,10 +389,34 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+---
 
+## 👨‍💻 Authors
+
+**Erfan Habibi**
+
+- GitHub: [@Erfanhabibi](https://github.com/Erfanhabibi)
+- Email: erfan.habibi.ehsani@gmail.com
 
 ---
 
+## 🙏 Acknowledgments
+
+- PyTorch team for the excellent deep learning framework
+- SciML community for inspiration and resources
+- George Em Karniadakis group for pioneering PINN research
+
+---
+
+## 📞 Support
+
+For questions, issues, or suggestions:
+
+- **GitHub Issues:** [Create an issue](https://github.com/Erfanhabibi/FPINN-Heat-Equation/issues)
+- **Email:** erfan.habibi.ehsani@gmail.com
+- **Documentation:** See the Jupyter notebook [notebooks/demo.ipynb](notebooks/demo.ipynb)
+
+---
 
 ## 🗺️ Roadmap
 

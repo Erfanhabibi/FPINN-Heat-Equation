@@ -11,7 +11,7 @@ Get started with FPINN-Heat-Equation in 5 minutes! ⚡
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/FPINN-Heat-Equation.git
+git clone https://github.com/Erfanhabibi/FPINN-Heat-Equation.git
 cd FPINN-Heat-Equation
 
 # Install dependencies
@@ -123,7 +123,7 @@ FPINN-Heat-Equation/
 ## Support
 
 - 📧 Email: erfan.habibi.ehsani@gmail.com
-- 🐛 Issues: [GitHub Issues](https://github.com/erfanhabibi/FPINN-Heat-Equation/issues)
+- 🐛 Issues: [GitHub Issues](https://github.com/Erfanhabibi/FPINN-Heat-Equation/issues)
 - 📚 Docs: See README.md and demo.ipynb
 
 ---
