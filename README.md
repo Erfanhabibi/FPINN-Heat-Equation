@@ -389,34 +389,10 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-## 👨‍💻 Authors
-
-**SciML Research Team**
-
-- Email: contact@example.com
-- Website: https://example.com
 
 ---
 
-## 🙏 Acknowledgments
-
-- PyTorch team for the excellent deep learning framework
-- SciML community for inspiration and resources
-- George Em Karniadakis group for pioneering PINN research
-
----
-
-## 📞 Support
-
-For questions, issues, or suggestions:
-
-- **GitHub Issues:** [Create an issue](https://github.com/yourusername/FPINN-Heat-Equation/issues)
-- **Email:** contact@example.com
-- **Documentation:** See the Jupyter notebook `notebooks/demo.ipynb`
-
----
 
 ## 🗺️ Roadmap
 
@@ -426,11 +402,3 @@ For questions, issues, or suggestions:
 - [ ] Web-based interactive visualization
 - [ ] Uncertainty quantification benchmarks
 - [ ] Integration with other UQ frameworks
-
----
-
-**⭐ If you find this project useful, please consider giving it a star!**
-
----
-
-*Last updated: January 2026*
