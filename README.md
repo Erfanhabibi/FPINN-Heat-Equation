@@ -83,7 +83,7 @@ FPINN-Heat-Equation/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/FPINN-Heat-Equation.git
+git clone https://github.com/erfanhabibi/FPINN-Heat-Equation.git
 cd FPINN-Heat-Equation
 ```
 

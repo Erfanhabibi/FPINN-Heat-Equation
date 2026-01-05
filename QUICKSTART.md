@@ -122,8 +122,8 @@ FPINN-Heat-Equation/
 
 ## Support
 
-- 📧 Email: contact@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/FPINN-Heat-Equation/issues)
+- 📧 Email: erfan.habibi.ehsani@gmail.com
+- 🐛 Issues: [GitHub Issues](https://github.com/erfanhabibi/FPINN-Heat-Equation/issues)
 - 📚 Docs: See README.md and demo.ipynb
 
 ---

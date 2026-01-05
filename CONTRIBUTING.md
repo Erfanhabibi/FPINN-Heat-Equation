@@ -64,7 +64,7 @@ We welcome feature suggestions! Please open an issue with:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/FPINN-Heat-Equation.git
+git clone https://github.com/erfanhabibi/FPINN-Heat-Equation.git
 cd FPINN-Heat-Equation
 
 # Install dependencies
